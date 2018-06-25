@@ -1,0 +1,7 @@
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\bin\Debug\HepsiBuradaMarsMission.exe.config
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\bin\Debug\HepsiBuradaMarsMission.exe
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\bin\Debug\HepsiBuradaMarsMission.pdb
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\obj\Debug\HepsiBuradaMarsMission.csprojResolveAssemblyReference.cache
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\obj\Debug\HepsiBuradaMarsMission.csproj.CoreCompileInputs.cache
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\obj\Debug\HepsiBuradaMarsMission.exe
+C:\Users\emresandikci\source\repos\HepsiBuradaMarsMission\HepsiBuradaMarsMission\obj\Debug\HepsiBuradaMarsMission.pdb
